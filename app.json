@@ -19,7 +19,7 @@
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
         },
         "BOT_TOKEN": {
-            "description": "6355534625:AAG524fCJE-q-obMGCf2y3OjHdWIpaDjKsM"
+            "description": ""
         },
         "BOT_USERNAME": {
             "description": "Your Bot Username which you sent to @BotFather (Without [@])"
